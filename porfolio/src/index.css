@@ -1,0 +1,9 @@
+@tailwind base;
+:root{
+  background-color:rgb(27, 27, 27);
+  color:white;
+  overflow: hidden
+}
+@tailwind components;
+@tailwind utilities;
+
