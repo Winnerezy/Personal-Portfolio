@@ -1,8 +1,7 @@
 @tailwind base;
 :root{
-  background-color:rgb(27, 27, 27);
-  color:white;
-  overflow: hidden
+  background-color: #1E1E1E ;
+  color:#FFFFFF ;
 }
 @tailwind components;
 @tailwind utilities;
